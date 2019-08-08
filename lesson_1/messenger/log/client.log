@@ -1,0 +1,1326 @@
+2018-03-14 02:29:05,162 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 02:29:05,163 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 02:29:05,163 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 02:29:09,759 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 02:29:09,760 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 02:29:09,761 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 02:31:06,886 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 02:31:06,887 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 02:31:06,887 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 02:31:08,940 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 02:31:08,942 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 02:31:08,943 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 02:33:05,444 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 02:33:05,445 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 02:33:05,445 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 02:33:07,197 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 02:33:07,198 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 02:33:07,198 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 02:47:22,745 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 02:47:22,746 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 02:47:22,747 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 02:47:24,977 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 02:47:24,977 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 02:47:24,978 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 03:53:21,896 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 03:53:21,896 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 03:53:21,897 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 03:53:21,927 - INFO - decorated - args: (<__main__.Client object at 0x02E19E30>,)  - __init__ - __main__
+2018-03-14 04:02:21,457 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 04:02:21,458 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 04:02:21,458 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 04:02:21,488 - INFO - decorated - args: (<__main__.ClientR object at 0x0323BAD0>,)  - __init__ - __main__
+2018-03-14 04:02:26,621 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 04:02:26,622 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 04:02:26,622 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 04:02:26,652 - INFO - decorated - args: (<__main__.ClientS object at 0x02C2AAD0>,)  - __init__ - __main__
+2018-03-14 06:21:17,902 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 06:21:17,902 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 06:21:17,903 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 06:21:17,929 - INFO - decorated - args: (<__main__.ClientR object at 0x02CFCA90>,)  - __init__ - __main__
+2018-03-14 06:21:23,784 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 06:21:23,784 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 06:21:23,784 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 06:21:23,813 - INFO - decorated - args: (<__main__.ClientS object at 0x02FFAAD0>,)  - __init__ - __main__
+2018-03-14 06:50:38,150 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 06:50:38,150 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 06:50:38,150 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 06:50:38,184 - INFO - decorated - args: (<__main__.ClientR object at 0x02EEBAD0>,)  - __init__ - __main__
+2018-03-14 07:52:33,022 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 07:52:33,023 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 07:52:33,024 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 07:52:33,063 - INFO - decorated - args: (<__main__.ClientR object at 0x0308BAF0>,)  - __init__ - __main__
+2018-03-14 08:22:30,179 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:22:30,180 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:22:30,181 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:22:30,207 - INFO - decorated - args: (<__main__.ClientR object at 0x024B7E50>,)  - __init__ - __main__
+2018-03-14 08:28:27,634 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:28:27,635 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:28:27,635 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:28:27,671 - INFO - decorated - args: (<__main__.ClientR object at 0x02AE7A70>,)  - __init__ - __main__
+2018-03-14 08:32:55,040 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:32:55,040 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:32:55,041 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:32:55,067 - INFO - decorated - args: (<__main__.ClientR object at 0x030F7A10>,)  - __init__ - __main__
+2018-03-14 08:40:24,263 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:40:24,263 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:40:24,264 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:40:24,292 - INFO - decorated - args: (<__main__.ClientR object at 0x02BABB30>,)  - __init__ - __main__
+2018-03-14 08:42:14,233 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:42:14,233 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:42:14,233 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:42:14,260 - INFO - decorated - args: (<__main__.ClientR object at 0x024FBAD0>,)  - __init__ - __main__
+2018-03-14 08:45:48,381 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:45:48,382 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:45:48,382 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:45:48,408 - INFO - decorated - args: (<__main__.ClientR object at 0x02FABB30>,)  - __init__ - __main__
+2018-03-14 08:47:46,779 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:47:46,781 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:47:46,782 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:47:46,825 - INFO - decorated - args: (<__main__.ClientS object at 0x02C3AB10>,)  - __init__ - __main__
+2018-03-14 08:51:11,253 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:51:11,254 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:51:11,254 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:51:11,281 - INFO - decorated - args: (<__main__.ClientS object at 0x029DAB10>,)  - __init__ - __main__
+2018-03-14 08:52:02,930 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:52:02,930 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:52:02,931 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:52:02,957 - INFO - decorated - args: (<__main__.ClientS object at 0x029AAB50>,)  - __init__ - __main__
+2018-03-14 08:55:10,928 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:55:10,929 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:55:10,929 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:55:10,956 - INFO - decorated - args: (<__main__.ClientS object at 0x02BAAB30>,)  - __init__ - __main__
+2018-03-14 08:57:43,867 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 08:57:43,874 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 08:57:43,875 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 08:57:43,926 - INFO - decorated - args: (<__main__.ClientS object at 0x0460FF70>,)  - __init__ - __main__
+2018-03-14 09:07:21,731 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 09:07:21,732 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 09:07:21,732 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 09:07:21,763 - INFO - decorated - args: (<__main__.ClientR object at 0x029EAB90>,)  - __init__ - __main__
+2018-03-14 09:07:26,326 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 09:07:26,327 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 09:07:26,327 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 09:07:26,364 - INFO - decorated - args: (<__main__.ClientS object at 0x02EE9B50>,)  - __init__ - __main__
+2018-03-14 10:45:47,244 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 10:45:47,246 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 10:45:47,247 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 10:45:47,356 - INFO - decorated - args: (<__main__.ClientR object at 0x02F0BB10>,)  - __init__ - __main__
+2018-03-14 10:47:41,739 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 10:47:41,740 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 10:47:41,741 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 10:47:41,782 - INFO - decorated - args: (<__main__.ClientR object at 0x0251BB10>,)  - __init__ - __main__
+2018-03-14 10:49:41,328 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 10:49:41,328 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 10:49:41,329 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 10:49:41,368 - INFO - decorated - args: (<__main__.ClientR object at 0x0262BAF0>,)  - __init__ - __main__
+2018-03-14 11:01:59,195 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 11:01:59,196 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 11:01:59,196 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 11:01:59,248 - INFO - decorated - args: (<__main__.ClientR object at 0x02F8AB70>,)  - __init__ - __main__
+2018-03-14 11:57:06,466 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 11:57:06,467 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 11:57:06,467 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 11:57:06,535 - INFO - decorated - args: (<__main__.ClientR object at 0x02A349F0>,)  - __init__ - __main__
+2018-03-14 11:57:24,970 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 11:57:24,971 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 11:57:24,974 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 11:57:25,019 - INFO - decorated - args: (<__main__.ClientS object at 0x022F7A10>,)  - __init__ - __main__
+2018-03-14 12:11:31,804 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:11:31,805 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:11:31,805 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:11:31,909 - INFO - decorated - args: (<__main__.ClientR object at 0x031B7A10>,)  - __init__ - __main__
+2018-03-14 12:11:37,299 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:11:37,300 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:11:37,300 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:11:37,335 - INFO - decorated - args: (<__main__.ClientS object at 0x02757A10>,)  - __init__ - __main__
+2018-03-14 12:32:36,935 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:32:36,935 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:32:36,936 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:35:24,382 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:35:24,384 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:35:24,384 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:35:24,425 - INFO - decorated - args: (<__main__.ClientSend object at 0x030269D0>, 'localhost', 7777)  - __init__ - __main__
+2018-03-14 12:35:24,437 - INFO - decorated - args: (<__main__.ClientSend object at 0x030269D0>,)  - client_send - __main__
+2018-03-14 12:35:32,621 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:35:32,622 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:35:32,622 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:35:32,652 - INFO - decorated - args: (<__main__.ClientSend object at 0x02F969B0>, 'localhost', 7777)  - __init__ - __main__
+2018-03-14 12:35:52,858 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:35:52,859 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:35:52,859 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:35:52,888 - INFO - decorated - args: (<__main__.ClientSend object at 0x02F469D0>, 'localhost', 7777)  - __init__ - __main__
+2018-03-14 12:35:52,900 - INFO - decorated - args: (<__main__.ClientSend object at 0x02F469D0>,)  - client_send - __main__
+2018-03-14 12:36:13,378 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:36:13,379 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:36:13,379 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:36:13,412 - INFO - decorated - args: (<__main__.ClientR object at 0x03057A10>,)  - __init__ - __main__
+2018-03-14 12:36:16,058 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:36:16,059 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:36:16,059 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:36:16,119 - INFO - decorated - args: (<__main__.ClientSend object at 0x02E469F0>, 'localhost', 7777)  - __init__ - __main__
+2018-03-14 12:36:16,135 - INFO - decorated - args: (<__main__.ClientSend object at 0x02E469F0>,)  - client_send - __main__
+2018-03-14 12:45:15,591 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:45:15,592 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:45:15,592 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:45:15,618 - INFO - decorated - args: (<__main__.ClientR object at 0x02B37A10>,)  - __init__ - __main__
+2018-03-14 12:45:19,730 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:45:19,730 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:45:19,731 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:55:54,204 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:55:54,205 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:55:54,205 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:58:06,878 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:58:06,878 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:58:06,879 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 12:58:13,085 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 12:58:13,086 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 12:58:13,086 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 13:02:47,060 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 13:02:47,061 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 13:02:47,061 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 13:04:16,218 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 13:04:16,219 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 13:04:16,220 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 13:04:23,686 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 13:04:23,686 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 13:04:23,687 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 13:04:30,020 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 13:04:30,021 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 13:04:30,021 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 15:22:18,873 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 15:22:18,874 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 15:22:18,874 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 15:22:23,362 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 15:22:23,363 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 15:22:23,363 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 15:32:10,308 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 15:32:10,310 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 15:32:10,310 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 15:32:14,173 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 15:32:14,174 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 15:32:14,174 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 15:35:55,183 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 15:35:55,184 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 15:35:55,184 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-14 15:36:00,854 - INFO - <module> - Hello, I'm is INFO!
+2018-03-14 15:36:00,855 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-14 15:36:00,855 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-21 03:23:17,940 - INFO - <module> - Hello, I'm is INFO!
+2018-03-21 03:23:17,942 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-21 03:23:17,943 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-21 03:23:23,159 - INFO - <module> - Hello, I'm is INFO!
+2018-03-21 03:23:23,159 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-21 03:23:23,160 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 01:30:35,925 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 01:30:35,936 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 01:30:35,936 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 01:32:28,633 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 01:32:28,637 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 01:32:28,637 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 05:02:25,259 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 05:02:25,260 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 05:02:25,260 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 05:03:36,337 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 05:03:36,338 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 05:03:36,338 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 05:03:36,383 - INFO - decorated - args: (<__main__.Client object at 0x027F9A10>,)  - client_send - __main__
+2018-03-28 05:09:02,729 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 05:09:02,730 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 05:09:02,731 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 07:34:22,650 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 07:34:22,651 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 07:34:22,651 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 07:50:25,743 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 07:50:25,744 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 07:50:25,744 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 07:50:29,776 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 07:50:29,788 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 07:50:29,789 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 07:50:46,508 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 07:50:46,509 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 07:50:46,509 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 09:26:14,864 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 09:26:14,865 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 09:26:14,866 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 09:27:29,109 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 09:27:29,110 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 09:27:29,110 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 09:53:39,497 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 09:53:39,512 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 09:53:39,513 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 11:25:58,022 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 11:25:58,023 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 11:25:58,024 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 11:50:41,787 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 11:50:41,790 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 11:50:41,790 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 11:52:43,068 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 11:52:43,069 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 11:52:43,070 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 11:56:30,090 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 11:56:30,092 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 11:56:30,093 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 11:56:55,680 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 11:56:55,682 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 11:56:55,682 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 12:58:32,077 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 12:58:32,078 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 12:58:32,078 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 13:25:18,568 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 13:25:18,569 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 13:25:18,570 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 13:40:25,505 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 13:40:25,507 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 13:40:25,507 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 13:45:10,636 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 13:45:10,638 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 13:45:10,638 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 13:48:58,499 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 13:48:58,500 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 13:48:58,501 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 13:49:51,397 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 13:49:51,398 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 13:49:51,398 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 13:50:15,541 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 13:50:15,542 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 13:50:15,542 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 13:55:29,365 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 13:55:29,366 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 13:55:29,367 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 13:59:03,896 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 13:59:03,897 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 13:59:03,897 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 14:08:50,730 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 14:08:50,732 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 14:08:50,732 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 14:11:35,926 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 14:11:35,927 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 14:11:35,928 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 14:13:49,524 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 14:13:49,525 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 14:13:49,525 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 14:15:34,739 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 14:15:34,745 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 14:15:34,745 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 14:25:20,734 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 14:25:20,735 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 14:25:20,736 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-03-28 14:26:21,580 - INFO - <module> - Hello, I'm is INFO!
+2018-03-28 14:26:21,582 - WARNING - <module> - It seems to be a bug...WARNING
+2018-03-28 14:26:21,582 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-02 01:50:58,996 - INFO - <module> - Hello, I'm is INFO!
+2018-04-02 01:50:58,996 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-02 01:50:58,996 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-02 03:30:28,774 - INFO - <module> - Hello, I'm is INFO!
+2018-04-02 03:30:28,791 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-02 03:30:28,791 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 00:45:02,292 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 00:45:02,294 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 00:45:02,295 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 00:56:38,752 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 00:56:38,752 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 00:56:38,753 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:00:39,153 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:00:39,153 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:00:39,154 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:06:51,082 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:06:51,083 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:06:51,083 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:08:38,043 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:08:38,044 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:08:38,045 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:15:42,155 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:15:42,155 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:15:42,156 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:16:29,095 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:16:29,096 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:16:29,097 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:18:23,514 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:18:23,515 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:18:23,516 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:20:19,591 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:20:19,591 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:20:19,592 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:22:10,889 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:22:10,890 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:22:10,890 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:23:03,296 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:23:03,296 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:23:03,296 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:26:44,656 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:26:44,657 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:26:44,658 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 01:31:22,074 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 01:31:22,075 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 01:31:22,076 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 05:08:38,412 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 05:08:38,413 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 05:08:38,414 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 05:25:03,262 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 05:25:03,263 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 05:25:03,264 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 06:33:22,291 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 06:33:22,293 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 06:33:22,293 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 06:43:44,101 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 06:43:44,102 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 06:43:44,103 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 06:47:29,343 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 06:47:29,346 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 06:47:29,346 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 06:48:48,125 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 06:48:48,126 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 06:48:48,127 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 06:50:18,689 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 06:50:18,690 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 06:50:18,690 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 06:56:52,985 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 06:56:52,986 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 06:56:52,987 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 06:58:53,919 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 06:58:53,920 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 06:58:53,920 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 07:01:02,047 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 07:01:02,048 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 07:01:02,048 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 07:02:34,142 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 07:02:34,143 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 07:02:34,143 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 07:04:54,256 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 07:04:54,257 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 07:04:54,257 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 07:05:40,375 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 07:05:40,375 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 07:05:40,376 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 07:06:22,811 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 07:06:22,813 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 07:06:22,813 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 07:08:57,618 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 07:08:57,619 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 07:08:57,619 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 07:09:59,678 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 07:09:59,679 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 07:09:59,680 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 10:28:59,767 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 10:28:59,769 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 10:28:59,770 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 10:32:02,332 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 10:32:02,333 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 10:32:02,334 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 10:39:51,901 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 10:39:51,902 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 10:39:51,903 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 10:41:38,863 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 10:41:38,959 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 10:41:38,994 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:21:28,629 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:21:28,629 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:21:28,630 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:22:37,317 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:22:37,318 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:22:37,322 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:27:39,525 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:27:39,526 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:27:39,526 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:29:45,149 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:29:45,150 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:29:45,151 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:32:24,167 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:32:24,168 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:32:24,168 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:41:44,582 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:41:44,582 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:41:44,583 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:44:30,681 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:44:30,682 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:44:30,683 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:52:52,572 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:52:52,572 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:52:52,573 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:54:48,516 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:54:48,517 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:54:48,518 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 11:57:04,095 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 11:57:04,095 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 11:57:04,096 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 12:04:33,359 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 12:04:33,361 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 12:04:33,361 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 12:08:51,341 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 12:08:51,342 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 12:08:51,343 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 12:11:14,418 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 12:11:14,419 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 12:11:14,419 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 12:13:53,845 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 12:13:53,847 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 12:13:53,848 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 12:18:06,360 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 12:18:06,361 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 12:18:06,361 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 12:20:48,974 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 12:20:48,975 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 12:20:48,976 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 13:46:38,474 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 13:46:38,475 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 13:46:38,475 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 13:48:23,815 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 13:48:23,816 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 13:48:23,816 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 13:52:15,258 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 13:52:15,258 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 13:52:15,260 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 13:55:01,835 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 13:55:01,836 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 13:55:01,836 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 13:56:25,479 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 13:56:25,480 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 13:56:25,481 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 13:57:42,261 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 13:57:42,262 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 13:57:42,263 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 13:59:47,459 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 13:59:47,462 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 13:59:47,463 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:00:56,926 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:00:56,927 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:00:56,928 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:05:56,333 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:05:56,334 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:05:56,335 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:10:00,205 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:10:00,206 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:10:00,207 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:22:01,626 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:22:01,627 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:22:01,628 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:24:58,293 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:24:58,294 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:24:58,295 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:31:19,195 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:31:19,197 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:31:19,198 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:43:58,464 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:43:58,465 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:43:58,466 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:51:47,418 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:51:47,419 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:51:47,421 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:52:41,639 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:52:41,976 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:52:41,977 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:52:54,267 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:52:54,268 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:52:54,269 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 14:55:08,667 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 14:55:08,668 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 14:55:08,668 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 15:00:16,008 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 15:00:16,009 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 15:00:16,010 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 15:04:23,446 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 15:04:23,449 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 15:04:23,451 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 16:30:05,521 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 16:30:05,522 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 16:30:05,522 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 16:41:58,615 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 16:41:58,615 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 16:41:58,616 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 16:44:27,079 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 16:44:27,080 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 16:44:27,081 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 16:45:18,218 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 16:45:18,225 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 16:45:18,226 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 16:45:58,515 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 16:45:58,516 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 16:45:58,516 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 16:47:57,375 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 16:47:57,376 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 16:47:57,377 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 18:49:04,056 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 18:49:04,058 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 18:49:04,059 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 18:50:42,966 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 18:50:42,970 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 18:50:42,971 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 18:53:16,062 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 18:53:16,065 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 18:53:16,065 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 18:54:18,756 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 18:54:18,762 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 18:54:18,762 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 18:55:18,422 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 18:55:18,425 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 18:55:18,426 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 18:56:12,944 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 18:56:12,951 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 18:56:12,952 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 19:01:03,032 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 19:01:03,033 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 19:01:03,033 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 19:35:03,726 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 19:35:03,829 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 19:35:03,830 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 19:35:40,827 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 19:35:40,828 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 19:35:40,828 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:03:15,251 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:03:15,254 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:03:15,255 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:03:15,315 - INFO - decorated - args: (<__main__.Client object at 0x027741F0>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:03:15 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:04:20,820 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:04:20,821 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:04:20,822 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:04:20,998 - INFO - decorated - args: (<__main__.Client object at 0x02DE41F0>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:04:20 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:15:47,724 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:15:47,725 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:15:47,725 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:15:47,805 - INFO - decorated - args: (<__main__.Client object at 0x030C41F0>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:15:47 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:16:34,916 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:16:34,917 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:16:34,917 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:16:35,015 - INFO - decorated - args: (<__main__.Client object at 0x027B41F0>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:16:35 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:23:45,629 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:23:45,630 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:23:45,630 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:23:45,731 - INFO - decorated - args: (<__main__.Client object at 0x02E451F0>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:23:45 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:24:20,226 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:24:20,252 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:24:20,255 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:24:20,385 - INFO - decorated - args: (<__main__.Client object at 0x02CC41F0>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:24:20 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:30:54,019 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:30:54,020 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:30:54,020 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:30:54,097 - INFO - decorated - args: (<__main__.Client object at 0x03044210>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:30:54 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:32:13,089 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:32:13,094 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:32:13,095 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:32:13,160 - INFO - decorated - args: (<__main__.Client object at 0x02D42210>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:32:13 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:33:55,262 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:33:55,262 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:33:55,271 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:33:55,339 - INFO - decorated - args: (<__main__.Client object at 0x02B641F0>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:33:55 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:34:30,959 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:34:30,960 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:34:30,960 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:34:31,033 - INFO - decorated - args: (<__main__.Client object at 0x030241F0>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:34:31 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:45:30,991 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:45:30,993 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:45:30,994 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:45:31,220 - INFO - decorated - args: (<__main__.Client object at 0x02E75250>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:45:31 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 20:46:15,964 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 20:46:15,974 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 20:46:15,976 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 20:46:16,095 - INFO - decorated - args: (<__main__.Client object at 0x02865250>,) result: {'action': 'presence', 'time': 'Tue Apr  3 20:46:16 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 21:08:22,937 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 21:08:22,937 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 21:08:22,938 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 21:08:23,004 - INFO - decorated - args: (<__main__.Client object at 0x026C1250>,) result: {'action': 'presence', 'time': 'Tue Apr  3 21:08:23 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 23:26:03,428 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 23:26:03,430 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 23:26:03,431 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 23:26:03,485 - INFO - decorated - args: (<__main__.Client object at 0x02775250>,) result: {'action': 'presence', 'time': 'Tue Apr  3 23:26:03 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 23:30:04,461 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 23:30:04,461 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 23:30:04,462 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 23:30:04,505 - INFO - decorated - args: (<__main__.Client object at 0x02745250>,) result: {'action': 'presence', 'time': 'Tue Apr  3 23:30:04 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 23:35:11,368 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 23:35:11,368 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 23:35:11,369 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 23:35:11,412 - INFO - decorated - args: (<__main__.Client object at 0x02C75290>,) result: {'action': 'presence', 'time': 'Tue Apr  3 23:35:11 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-03 23:37:14,923 - INFO - <module> - Hello, I'm is INFO!
+2018-04-03 23:37:14,925 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-03 23:37:14,925 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-03 23:37:14,976 - INFO - decorated - args: (<__main__.Client object at 0x02B75210>,) result: {'action': 'presence', 'time': 'Tue Apr  3 23:37:14 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-04 17:26:30,847 - INFO - <module> - Hello, I'm is INFO!
+2018-04-04 17:26:30,850 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-04 17:26:30,850 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-04 17:26:30,928 - INFO - decorated - args: (<__main__.Client object at 0x02CD5210>,) result: {'action': 'presence', 'time': 'Wed Apr  4 17:26:30 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-11 12:11:37,708 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 12:11:37,709 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 12:11:37,710 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 12:11:38,043 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 12:11:38,044 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 12:11:38,047 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 12:11:38,300 - INFO - decorated - args: (<__main__.Client object at 0x030B81D0>,) result: {'action': 'presence', 'time': 'Wed Apr 11 12:11:38 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-11 12:11:38,667 - INFO - decorated - args: (<__main__.Client object at 0x032971D0>,) result: {'action': 'presence', 'time': 'Wed Apr 11 12:11:38 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-11 12:12:13,554 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 12:12:13,555 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 12:12:13,555 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 12:12:13,602 - INFO - decorated - args: (<__main__.Client object at 0x032E8170>,) result: {'action': 'presence', 'time': 'Wed Apr 11 12:12:13 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-11 12:12:13,934 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 12:12:13,935 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 12:12:13,935 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 12:12:13,986 - INFO - decorated - args: (<__main__.Client object at 0x026D8150>,) result: {'action': 'presence', 'time': 'Wed Apr 11 12:12:13 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-11 16:38:42,877 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:38:42,878 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:38:42,878 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:38:42,941 - INFO - decorated - args: (<__main__.Client object at 0x02E05590>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:38:42 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-11 16:39:26,818 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:39:26,819 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:39:26,820 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:39:26,895 - INFO - decorated - args: (<__main__.Client object at 0x03285570>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:39:26 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-11 16:40:08,522 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:40:08,523 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:40:08,524 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:40:08,574 - INFO - decorated - args: (<__main__.Client object at 0x030465D0>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:40:08 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-11 16:40:08,603 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:40:08,606 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:40:08,606 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:40:08,663 - INFO - decorated - args: (<__main__.Client object at 0x026A6610>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:40:08 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-11 16:41:03,888 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:41:03,888 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:41:03,889 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:41:03,938 - INFO - decorated - args: (<__main__.Client object at 0x02EB65F0>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:41:03 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-11 16:41:04,083 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:41:04,084 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:41:04,084 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:41:04,139 - INFO - decorated - args: (<__main__.Client object at 0x031A65D0>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:41:04 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-11 16:42:02,465 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:42:02,466 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:42:02,467 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:42:02,517 - INFO - decorated - args: (<__main__.Client object at 0x02AF5550>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:42:02 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-11 16:44:10,644 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:44:10,645 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:44:10,645 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:44:10,691 - INFO - decorated - args: (<__main__.Client object at 0x032D5570>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:44:10 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-11 16:45:55,973 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:45:55,975 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:45:55,976 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:45:56,080 - INFO - decorated - args: (<__main__.Client object at 0x02DB5550>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:45:56 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-11 16:49:51,986 - INFO - <module> - Hello, I'm is INFO!
+2018-04-11 16:49:51,988 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-11 16:49:51,989 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-11 16:49:52,040 - INFO - decorated - args: (<__main__.Client object at 0x023B5570>,) result: {'action': 'presence', 'time': 'Wed Apr 11 16:49:52 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-14 20:17:09,179 - INFO - <module> - Hello, I'm is INFO!
+2018-04-14 20:17:09,182 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-14 20:17:09,182 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-14 20:17:09,253 - INFO - decorated - args: (<__main__.Client object at 0x030554D0>,) result: {'action': 'presence', 'time': 'Sat Apr 14 20:17:09 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-14 20:21:56,968 - INFO - <module> - Hello, I'm is INFO!
+2018-04-14 20:21:56,969 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-14 20:21:56,969 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-14 20:21:57,025 - INFO - decorated - args: (<__main__.Client object at 0x02A57470>,) result: {'action': 'presence', 'time': 'Sat Apr 14 20:21:57 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-14 20:23:30,803 - INFO - <module> - Hello, I'm is INFO!
+2018-04-14 20:23:30,805 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-14 20:23:30,805 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-14 20:23:30,861 - INFO - decorated - args: (<__main__.Client object at 0x030E7470>,) result: {'action': 'presence', 'time': 'Sat Apr 14 20:23:30 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-14 20:28:04,271 - INFO - <module> - Hello, I'm is INFO!
+2018-04-14 20:28:04,271 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-14 20:28:04,272 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-14 20:28:11,988 - INFO - decorated - args: (<__main__.Client object at 0x024374D0>,) result: {'action': 'presence', 'time': 'Sat Apr 14 20:28:11 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-14 23:50:16,116 - INFO - <module> - Hello, I'm is INFO!
+2018-04-14 23:50:16,117 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-14 23:50:16,118 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-14 23:50:25,637 - INFO - decorated - args: (<__main__.Client object at 0x02E554F0>,) result: {'action': 'presence', 'time': 'Sat Apr 14 23:50:25 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-14 23:57:15,130 - INFO - <module> - Hello, I'm is INFO!
+2018-04-14 23:57:15,131 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-14 23:57:15,132 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-14 23:57:23,123 - INFO - decorated - args: (<__main__.Client object at 0x02825510>,) result: {'action': 'presence', 'time': 'Sat Apr 14 23:57:23 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 00:02:54,034 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 00:02:54,035 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 00:02:54,036 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 00:02:59,086 - INFO - decorated - args: (<__main__.Client object at 0x02985510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 00:02:59 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 00:04:38,620 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 00:04:38,621 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 00:04:38,621 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 00:04:44,333 - INFO - decorated - args: (<__main__.Client object at 0x02F854F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 00:04:44 2018', 'account_name': 'JOre'}  - form_presence - __main__
+2018-04-15 00:11:01,456 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 00:11:01,458 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 00:11:01,458 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 00:11:09,415 - INFO - decorated - args: (<__main__.Client object at 0x029E5510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 00:11:09 2018', 'account_name': 'Bob'}  - form_presence - __main__
+2018-04-15 00:13:53,360 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 00:13:53,361 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 00:13:53,362 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 00:13:56,734 - INFO - decorated - args: (<__main__.Client object at 0x024A5510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 00:13:56 2018', 'account_name': 'bob'}  - form_presence - __main__
+2018-04-15 00:16:58,735 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 00:16:58,737 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 00:16:58,738 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 00:17:03,389 - INFO - decorated - args: (<__main__.Client object at 0x029254F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 00:17:03 2018', 'account_name': 'Bob'}  - form_presence - __main__
+2018-04-15 00:18:39,175 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 00:18:39,185 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 00:18:39,185 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 00:18:43,176 - INFO - decorated - args: (<__main__.Client object at 0x032E5510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 00:18:43 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 00:23:55,772 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 00:23:55,773 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 00:23:55,773 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 00:23:59,767 - INFO - decorated - args: (<__main__.Client object at 0x024354F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 00:23:59 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 01:25:05,437 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 01:25:05,439 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 01:25:05,439 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 01:25:10,814 - INFO - decorated - args: (<__main__.Client object at 0x026354F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 01:25:10 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 01:43:32,254 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 01:43:32,255 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 01:43:32,255 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 01:43:36,865 - INFO - decorated - args: (<__main__.Client object at 0x026474B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 01:43:36 2018', 'account_name': 'lisa'}  - form_presence - __main__
+2018-04-15 01:46:10,054 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 01:46:10,055 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 01:46:10,056 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 01:46:15,232 - INFO - decorated - args: (<__main__.Client object at 0x027754F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 01:46:15 2018', 'account_name': 'lisa'}  - form_presence - __main__
+2018-04-15 01:50:07,903 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 01:50:07,904 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 01:50:07,904 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 01:50:11,366 - INFO - decorated - args: (<__main__.Client object at 0x032C5530>,) result: {'action': 'presence', 'time': 'Sun Apr 15 01:50:11 2018', 'account_name': 'lisa'}  - form_presence - __main__
+2018-04-15 01:50:58,887 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 01:50:58,888 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 01:50:58,888 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 01:51:02,819 - INFO - decorated - args: (<__main__.Client object at 0x02E454F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 01:51:02 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 01:52:25,817 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 01:52:25,818 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 01:52:25,818 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 01:52:29,867 - INFO - decorated - args: (<__main__.Client object at 0x02AB54F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 01:52:29 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 01:58:11,296 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 01:58:11,297 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 01:58:11,297 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 01:58:15,729 - INFO - decorated - args: (<__main__.Client object at 0x028474B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 01:58:15 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 02:21:13,399 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:21:13,399 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:21:13,400 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:21:15,879 - INFO - decorated - args: (<__main__.Client object at 0x032854F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:21:15 2018', 'account_name': 'n'}  - form_presence - __main__
+2018-04-15 02:27:33,126 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:27:33,128 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:27:33,128 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:27:35,543 - INFO - decorated - args: (<__main__.Client object at 0x028E54D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:27:35 2018', 'account_name': 'h'}  - form_presence - __main__
+2018-04-15 02:34:16,059 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:34:16,061 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:34:16,061 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:34:21,445 - INFO - decorated - args: (<__main__.Client object at 0x024B5510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:34:21 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 02:36:52,050 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:36:52,051 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:36:52,051 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:36:57,044 - INFO - decorated - args: (<__main__.Client object at 0x028E54F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:36:57 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 02:38:08,158 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:38:08,164 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:38:08,165 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:38:08,166 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:38:08,166 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:38:08,167 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:38:14,938 - INFO - decorated - args: (<__main__.Client object at 0x02D55510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:38:14 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 02:39:02,354 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:39:02,355 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:39:02,355 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:39:02,762 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:39:02,763 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:39:02,763 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:39:07,950 - INFO - decorated - args: (<__main__.Client object at 0x028B54B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:39:07 2018', 'account_name': 'h'}  - form_presence - __main__
+2018-04-15 02:41:54,822 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:41:54,823 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:41:54,823 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:42:06,050 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:42:06,051 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:42:06,052 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:42:06,311 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:42:06,312 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:42:06,312 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:42:22,432 - INFO - decorated - args: (<__main__.Client object at 0x031754F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:42:22 2018', 'account_name': 'h'}  - form_presence - __main__
+2018-04-15 02:43:12,943 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:43:12,944 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:43:12,944 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:43:16,008 - INFO - decorated - args: (<__main__.Client object at 0x02D654F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:43:16 2018', 'account_name': 'h'}  - form_presence - __main__
+2018-04-15 02:43:41,374 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:43:41,374 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:43:41,375 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:43:41,847 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:43:41,848 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:43:41,848 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:43:44,614 - INFO - decorated - args: (<__main__.Client object at 0x02B054F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:43:44 2018', 'account_name': 'h'}  - form_presence - __main__
+2018-04-15 02:56:09,625 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 02:56:09,626 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 02:56:09,626 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 02:56:14,321 - INFO - decorated - args: (<__main__.Client object at 0x030D54F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 02:56:14 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 03:08:43,104 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 03:08:43,104 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 03:08:43,105 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 03:08:53,350 - INFO - decorated - args: (<__main__.Client object at 0x02AF5510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 03:08:53 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 05:42:05,011 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 05:42:05,012 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 05:42:05,012 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 05:42:10,013 - INFO - decorated - args: (<__main__.Client object at 0x02B174B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 05:42:10 2018', 'account_name': 'h'}  - form_presence - __main__
+2018-04-15 05:48:53,843 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 05:48:53,844 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 05:48:53,844 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 05:48:58,535 - INFO - decorated - args: (<__main__.Client object at 0x023A54D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 05:48:58 2018', 'account_name': 'h'}  - form_presence - __main__
+2018-04-15 06:23:35,737 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 06:23:35,738 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 06:23:35,739 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 06:23:42,051 - INFO - decorated - args: (<__main__.Client object at 0x024C74D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 06:23:42 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 06:37:46,765 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 06:37:46,766 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 06:37:46,766 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 06:37:52,689 - INFO - decorated - args: (<__main__.Client object at 0x02D254D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 06:37:52 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 06:39:17,886 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 06:39:17,887 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 06:39:17,887 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 06:39:24,376 - INFO - decorated - args: (<__main__.Client object at 0x025774D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 06:39:24 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 06:40:17,839 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 06:40:17,841 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 06:40:17,841 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 06:40:22,814 - INFO - decorated - args: (<__main__.Client object at 0x029F54F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 06:40:22 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 10:24:28,137 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 10:24:28,138 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 10:24:28,139 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 10:24:34,136 - INFO - decorated - args: (<__main__.Client object at 0x02CA7490>,) result: {'action': 'presence', 'time': 'Sun Apr 15 10:24:34 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 10:28:59,325 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 10:28:59,325 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 10:28:59,326 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 10:29:05,311 - INFO - decorated - args: (<__main__.Client object at 0x024A74B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 10:29:05 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 10:32:12,020 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 10:32:12,020 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 10:32:12,021 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 10:32:17,910 - INFO - decorated - args: (<__main__.Client object at 0x031E74B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 10:32:17 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 10:32:35,434 - INFO - decorated - args: (<__main__.Client object at 0x031E74B0>,) result: ['Marge', 'Bart', 'Lisa']  - get_contacts - __main__
+2018-04-15 10:36:12,521 - INFO - decorated - args: (<__main__.Client object at 0x031E74B0>,) result: ['Marge', 'Bart', 'Lisa']  - get_contacts - __main__
+2018-04-15 10:36:43,154 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 10:36:43,155 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 10:36:43,155 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 10:36:45,685 - INFO - decorated - args: (<__main__.Client object at 0x032E74B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 10:36:45 2018', 'account_name': 'h'}  - form_presence - __main__
+2018-04-15 10:36:49,524 - INFO - decorated - args: (<__main__.Client object at 0x032E74B0>,)  - get_contacts - __main__
+2018-04-15 10:42:53,819 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 10:42:53,821 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 10:42:53,822 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 10:42:58,598 - INFO - decorated - args: (<__main__.Client object at 0x023B74B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 10:42:58 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 10:43:57,997 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 10:43:57,998 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 10:43:57,998 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 10:44:01,899 - INFO - decorated - args: (<__main__.Client object at 0x031174B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 10:44:01 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 10:44:07,956 - INFO - decorated - args: (<__main__.Client object at 0x031174B0>,)  - get_contacts - __main__
+2018-04-15 10:44:24,470 - INFO - decorated - args: (<__main__.Client object at 0x031174B0>, 'Bart') result: {'response': 202}  - add_contact - __main__
+2018-04-15 10:54:21,328 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 10:54:21,328 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 10:54:21,329 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 10:54:21,387 - INFO - decorated - args: (<__main__.Client object at 0x02777470>,) result: {'action': 'presence', 'time': 'Sun Apr 15 10:54:21 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-15 10:57:34,075 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 10:57:34,075 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 10:57:34,076 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 10:57:34,122 - INFO - decorated - args: (<__main__.Client object at 0x02647DB0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 10:57:34 2018', 'account_name': 'Guest'}  - form_presence - __main__
+2018-04-15 10:57:43,000 - INFO - decorated - args: (<__main__.Client object at 0x02647DB0>,)  - get_contacts - __main__
+2018-04-15 11:02:55,858 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:02:55,859 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:02:55,859 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:03:02,052 - INFO - decorated - args: (<__main__.Client object at 0x031774B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:03:02 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 11:03:08,524 - INFO - decorated - args: (<__main__.Client object at 0x031774B0>,) result: ['Marge', 'Bart', 'Lisa']  - get_contacts - __main__
+2018-04-15 11:03:49,575 - INFO - decorated - args: (<__main__.Client object at 0x031774B0>,) result: ['Marge', 'Bart', 'Lisa']  - get_contacts - __main__
+2018-04-15 11:04:01,131 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:04:01,132 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:04:01,132 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:04:05,938 - INFO - decorated - args: (<__main__.Client object at 0x03287490>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:04:05 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-15 11:04:23,460 - INFO - decorated - args: (<__main__.Client object at 0x03287490>,) result: ['Marge', 'Bart', 'Lisa']  - get_contacts - __main__
+2018-04-15 11:11:46,234 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:11:46,235 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:11:46,235 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:11:51,232 - INFO - decorated - args: (<__main__.Client object at 0x02AD74B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:11:51 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:16:10,097 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:16:10,098 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:16:10,099 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:16:14,252 - INFO - decorated - args: (<__main__.Client object at 0x032654D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:16:14 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:17:51,671 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:17:51,672 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:17:51,672 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:18:08,028 - INFO - decorated - args: (<__main__.Client object at 0x02E554D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:18:08 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:41:19,973 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:41:19,974 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:41:19,975 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:41:24,355 - INFO - decorated - args: (<__main__.Client object at 0x024954D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:41:24 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:41:46,327 - INFO - decorated - args: (<__main__.Client object at 0x024954D0>, 'Bob') result: {'response': 202}  - add_contact - __main__
+2018-04-15 11:42:54,617 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:42:54,618 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:42:54,618 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:43:00,892 - INFO - decorated - args: (<__main__.Client object at 0x02A854F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:43:00 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:43:10,762 - INFO - decorated - args: (<__main__.Client object at 0x02A854F0>, 'L') result: {'response': 202}  - add_contact - __main__
+2018-04-15 11:43:17,211 - INFO - decorated - args: (<__main__.Client object at 0x02A854F0>,) result: ['Bart', 'Bob']  - get_contacts - __main__
+2018-04-15 11:56:07,028 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:56:07,028 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:56:07,029 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:56:13,281 - INFO - decorated - args: (<__main__.Client object at 0x02BC7490>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:56:13 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:57:24,994 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:57:24,995 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:57:24,995 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:57:28,894 - INFO - decorated - args: (<__main__.Client object at 0x031B74B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:57:28 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:57:52,919 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:57:52,919 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:57:52,919 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:57:57,694 - INFO - decorated - args: (<__main__.Client object at 0x030764D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:57:57 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:58:01,745 - INFO - decorated - args: (<__main__.Client object at 0x030764D0>,) result: ['Bart', 'Bob']  - get_contacts - __main__
+2018-04-15 11:59:16,506 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 11:59:16,507 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 11:59:16,507 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 11:59:22,469 - INFO - decorated - args: (<__main__.Client object at 0x031B64D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 11:59:22 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 11:59:26,917 - INFO - decorated - args: (<__main__.Client object at 0x031B64D0>,) result: ['Bart', 'Bob']  - get_contacts - __main__
+2018-04-15 11:59:51,859 - INFO - decorated - args: (<__main__.Client object at 0x031B64D0>,) result: ['Bart', 'Bob']  - get_contacts - __main__
+2018-04-15 12:00:38,745 - INFO - decorated - args: (<__main__.Client object at 0x031B64D0>, 'Bob') result: {'response': 202}  - del_contact - __main__
+2018-04-15 12:00:47,213 - INFO - decorated - args: (<__main__.Client object at 0x031B64D0>,) result: ['Bart']  - get_contacts - __main__
+2018-04-15 13:48:05,595 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 13:48:05,596 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 13:48:05,596 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 13:48:10,217 - INFO - decorated - args: (<__main__.Client object at 0x03267470>,) result: {'action': 'presence', 'time': 'Sun Apr 15 13:48:10 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 13:51:01,449 - INFO - decorated - args: (<__main__.Client object at 0x03267470>, 'Bart', 'hello')  - send - __main__
+2018-04-15 13:59:03,443 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 13:59:03,443 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 13:59:03,444 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 13:59:03,881 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 13:59:03,883 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 13:59:03,883 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 13:59:11,322 - INFO - decorated - args: (<__main__.Client object at 0x02F264D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 13:59:11 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 13:59:29,322 - INFO - decorated - args: (<__main__.Client object at 0x02F264D0>, 'Bart', 'hello')  - send - __main__
+2018-04-15 13:59:40,459 - INFO - decorated - args: (<__main__.Client object at 0x02F264D0>, 'Bart', 'hello')  - send - __main__
+2018-04-15 14:00:05,372 - INFO - decorated - args: (<__main__.Client object at 0x029764D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:00:05 2018', 'account_name': 'Bart'}  - form_presence - __main__
+2018-04-15 14:00:27,221 - INFO - decorated - args: (<__main__.Client object at 0x029764D0>, 'Lisa', 'by')  - send - __main__
+2018-04-15 14:00:34,834 - INFO - decorated - args: (<__main__.Client object at 0x029764D0>, 'Lisa', 'by')  - send - __main__
+2018-04-15 14:01:40,352 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:01:40,352 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:01:40,353 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:01:40,904 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:01:40,905 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:01:40,905 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:01:51,186 - INFO - decorated - args: (<__main__.Client object at 0x02AB6490>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:01:51 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 14:01:56,360 - INFO - decorated - args: (<__main__.Client object at 0x02EE64B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:01:56 2018', 'account_name': 'Bart'}  - form_presence - __main__
+2018-04-15 14:02:03,621 - INFO - decorated - args: (<__main__.Client object at 0x02EE64B0>,)  - get_contacts - __main__
+2018-04-15 14:02:09,066 - INFO - decorated - args: (<__main__.Client object at 0x02AB6490>,) result: ['Bart']  - get_contacts - __main__
+2018-04-15 14:02:27,434 - INFO - decorated - args: (<__main__.Client object at 0x02AB6490>, 'Bart', 'hello')  - send - __main__
+2018-04-15 14:02:57,522 - INFO - decorated - args: (<__main__.Client object at 0x02AB6490>, 'Bart', 'by')  - send - __main__
+2018-04-15 14:03:27,091 - INFO - decorated - args: (<__main__.Client object at 0x02EE64B0>, 'Lisa') result: {'response': 202}  - add_contact - __main__
+2018-04-15 14:03:30,323 - INFO - decorated - args: (<__main__.Client object at 0x02EE64B0>,) result: ['Lisa']  - get_contacts - __main__
+2018-04-15 14:04:34,759 - INFO - decorated - args: (<__main__.Client object at 0x02EE64B0>, 'Lisa', 'by')  - send - __main__
+2018-04-15 14:04:55,797 - INFO - decorated - args: (<__main__.Client object at 0x02EE64B0>, 'Lisa', 'by')  - send - __main__
+2018-04-15 14:12:33,272 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:12:33,272 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:12:33,273 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:12:33,437 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:12:33,438 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:12:33,438 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:12:38,862 - INFO - decorated - args: (<__main__.Client object at 0x024464B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:12:38 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 14:12:47,412 - INFO - decorated - args: (<__main__.Client object at 0x02E064B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:12:47 2018', 'account_name': 'Bart'}  - form_presence - __main__
+2018-04-15 14:13:00,910 - INFO - decorated - args: (<__main__.Client object at 0x02E064B0>, 'Lisa', 'by')  - send - __main__
+2018-04-15 14:13:15,648 - INFO - decorated - args: (<__main__.Client object at 0x02E064B0>, 'Lisa', 'by')  - send - __main__
+2018-04-15 14:37:24,289 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:37:24,298 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:37:24,299 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:37:24,311 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:37:24,312 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:37:24,312 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:37:36,977 - INFO - decorated - args: (<__main__.Client object at 0x028A64D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:37:36 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 14:38:01,849 - INFO - decorated - args: (<__main__.Client object at 0x028A64D0>, 'Bart', 'by')  - send - __main__
+2018-04-15 14:38:09,137 - INFO - decorated - args: (<__main__.Client object at 0x028A64D0>, 'Bart', 'by')  - send - __main__
+2018-04-15 14:39:20,277 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:39:20,277 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:39:20,278 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:39:20,370 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:39:20,370 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:39:20,371 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:39:25,565 - INFO - decorated - args: (<__main__.Client object at 0x030664F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:39:25 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 14:39:43,412 - INFO - decorated - args: (<__main__.Client object at 0x030664F0>, 'Bart', 'by')  - send - __main__
+2018-04-15 14:39:55,588 - INFO - decorated - args: (<__main__.Client object at 0x030664F0>, 'Bart', 'by')  - send - __main__
+2018-04-15 14:40:56,528 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:40:56,528 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:40:56,528 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:41:00,047 - INFO - decorated - args: (<__main__.Client object at 0x02BA64F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:41:00 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 14:42:43,010 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:42:43,015 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:42:43,016 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:42:48,391 - INFO - decorated - args: (<__main__.Client object at 0x02A374F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:42:48 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 14:44:32,398 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:44:32,400 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:44:32,400 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:44:35,626 - INFO - decorated - args: (<__main__.Client object at 0x024974D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:44:35 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 14:44:41,112 - INFO - decorated - args: (<__main__.Client object at 0x024974D0>,) result: ['Bart']  - get_contacts - __main__
+2018-04-15 14:49:55,596 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 14:49:55,597 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 14:49:55,597 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 14:49:59,462 - INFO - decorated - args: (<__main__.Client object at 0x02CF64B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 14:49:59 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 14:50:17,305 - INFO - decorated - args: (<__main__.Client object at 0x02CF64B0>, 'Bart', 'by')  - send - __main__
+2018-04-15 15:29:20,793 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:29:20,795 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:29:20,795 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:29:31,351 - INFO - decorated - args: (<__main__.Client object at 0x030464F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:29:31 2018', 'account_name': 'lisa'}  - form_presence - __main__
+2018-04-15 15:29:49,340 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:29:49,341 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:29:49,341 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:29:55,650 - INFO - decorated - args: (<__main__.Client object at 0x032864F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:29:55 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-15 15:30:22,171 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:30:22,172 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:30:22,172 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:30:22,553 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:30:22,554 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:30:22,554 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:30:38,843 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:30:38,843 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:30:38,844 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:30:39,023 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:30:39,024 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:30:39,024 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:31:07,139 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:31:07,139 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:31:07,140 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:31:07,386 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:31:07,387 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:31:07,387 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:33:52,318 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:33:52,319 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:33:52,319 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:33:52,416 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:33:52,417 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:33:52,417 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:33:52,896 - INFO - decorated - args: (<__main__.Client object at 0x02B664F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:33:52 2018', 'account_name': 'localhost'}  - form_presence - __main__
+2018-04-15 15:33:52,966 - INFO - decorated - args: (<__main__.Client object at 0x02DF64F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:33:52 2018', 'account_name': 'localhost'}  - form_presence - __main__
+2018-04-15 15:34:53,436 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:34:53,437 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:34:53,437 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:34:53,763 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:34:53,764 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:34:53,764 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:34:53,815 - INFO - decorated - args: (<__main__.Client object at 0x02876530>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:34:53 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 15:34:53,988 - INFO - decorated - args: (<__main__.Client object at 0x02FD64F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:34:53 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 15:35:24,255 - INFO - decorated - args: (<__main__.Client object at 0x02876530>, 'console1', 'by')  - send - __main__
+2018-04-15 15:38:26,855 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:38:26,856 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:38:26,856 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:38:27,000 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:38:27,000 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:38:27,001 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:38:27,464 - INFO - decorated - args: (<__main__.Client object at 0x025C6530>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:38:27 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 15:38:27,553 - INFO - decorated - args: (<__main__.Client object at 0x025464F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:38:27 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 15:38:49,442 - INFO - decorated - args: (<__main__.Client object at 0x025C6530>, 'console0', 'by')  - send - __main__
+2018-04-15 15:47:20,638 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:47:20,638 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:47:20,639 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:47:20,766 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:47:20,766 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:47:20,767 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:47:21,212 - INFO - decorated - args: (<__main__.Client object at 0x03046510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:47:21 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 15:47:21,322 - INFO - decorated - args: (<__main__.Client object at 0x02C06510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:47:21 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 15:47:43,058 - INFO - decorated - args: (<__main__.Client object at 0x03046510>,)  - get_contacts - __main__
+2018-04-15 15:47:56,162 - INFO - decorated - args: (<__main__.Client object at 0x03046510>, 'console1') result: {'response': 202}  - add_contact - __main__
+2018-04-15 15:48:07,034 - INFO - decorated - args: (<__main__.Client object at 0x03046510>,) result: ['console1']  - get_contacts - __main__
+2018-04-15 15:48:20,606 - INFO - decorated - args: (<__main__.Client object at 0x03046510>, 'console1', 'by')  - send_message - __main__
+2018-04-15 15:49:27,451 - INFO - decorated - args: (<__main__.Client object at 0x02C06510>,)  - get_contacts - __main__
+2018-04-15 15:49:39,546 - INFO - decorated - args: (<__main__.Client object at 0x02C06510>, 'console0') result: {'response': 202}  - add_contact - __main__
+2018-04-15 15:50:00,981 - INFO - decorated - args: (<__main__.Client object at 0x02C06510>, 'console0', 'by')  - send_message - __main__
+2018-04-15 15:55:30,108 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:55:30,109 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:55:30,109 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:55:30,586 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:55:30,587 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:55:30,587 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:55:30,650 - INFO - decorated - args: (<__main__.Client object at 0x029D64F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:55:30 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 15:55:30,737 - INFO - decorated - args: (<__main__.Client object at 0x032764F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:55:30 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 15:56:00,444 - INFO - decorated - args: (<__main__.Client object at 0x029D64F0>, 'consoleo', 'hi')  - send_message - __main__
+2018-04-15 15:56:21,307 - INFO - decorated - args: (<__main__.Client object at 0x029D64F0>, 'console0', 'hi')  - send_message - __main__
+2018-04-15 15:57:28,307 - INFO - decorated - args: (<__main__.Client object at 0x032764F0>, 'console1', 'hi')  - send_message - __main__
+2018-04-15 15:58:58,163 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:58:58,163 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:58:58,164 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:58:58,531 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 15:58:58,531 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 15:58:58,532 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 15:58:58,588 - INFO - decorated - args: (<__main__.Client object at 0x02EF64F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:58:58 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 15:58:58,737 - INFO - decorated - args: (<__main__.Client object at 0x02D774B0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 15:58:58 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 15:59:24,931 - INFO - decorated - args: (<__main__.Client object at 0x02EF64F0>, 'console1', 'hi')  - send_message - __main__
+2018-04-15 17:15:20,918 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:15:20,919 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:15:20,919 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:15:21,205 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:15:21,206 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:15:21,206 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:15:22,428 - INFO - decorated - args: (<__main__.Client object at 0x026864F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:15:22 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 17:15:54,887 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:15:54,888 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:15:54,888 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:15:55,759 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:15:55,759 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:15:55,760 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:15:56,944 - INFO - decorated - args: (<__main__.Client object at 0x02F864F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:15:56 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 17:31:37,831 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:31:37,832 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:31:37,832 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:31:38,063 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:31:38,063 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:31:38,064 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:31:38,536 - INFO - decorated - args: (<__main__.Client object at 0x02A064D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:31:38 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 17:31:38,737 - INFO - decorated - args: (<__main__.Client object at 0x03286510>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:31:38 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 17:32:00,977 - INFO - decorated - args: (<__main__.Client object at 0x02A064D0>, 'console1', 'hi')  - send_message - __main__
+2018-04-15 17:36:30,705 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:36:30,705 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:36:30,706 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:36:30,860 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:36:30,861 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:36:30,861 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:36:31,928 - INFO - decorated - args: (<__main__.Client object at 0x029A64F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:36:31 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 17:36:32,036 - INFO - decorated - args: (<__main__.Client object at 0x025364F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:36:32 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 17:36:47,602 - INFO - decorated - args: (<__main__.Client object at 0x029A64F0>, 'console0', 'hi')  - send_message - __main__
+2018-04-15 17:42:16,815 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:42:16,816 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:42:16,816 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:42:17,081 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:42:17,081 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:42:17,082 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:42:17,728 - INFO - decorated - args: (<__main__.Client object at 0x028064D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:42:17 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 17:42:17,936 - INFO - decorated - args: (<__main__.Client object at 0x027964D0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:42:17 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 17:42:31,590 - INFO - decorated - args: (<__main__.Client object at 0x027964D0>, 'console0', 'hi')  - send_message - __main__
+2018-04-15 17:43:54,214 - INFO - decorated - args: (<__main__.Client object at 0x028064D0>, 'console1', 'hi')  - send_message - __main__
+2018-04-15 17:44:31,190 - INFO - decorated - args: (<__main__.Client object at 0x028064D0>, 'console1', 'hi')  - send_message - __main__
+2018-04-15 17:45:07,624 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:45:07,625 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:45:07,625 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:45:08,236 - INFO - decorated - args: (<__main__.Client object at 0x024064F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:45:08 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-15 17:45:08,503 - INFO - <module> - Hello, I'm is INFO!
+2018-04-15 17:45:08,504 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-15 17:45:08,504 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-15 17:45:08,601 - INFO - decorated - args: (<__main__.Client object at 0x02AF64F0>,) result: {'action': 'presence', 'time': 'Sun Apr 15 17:45:08 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-15 17:45:22,065 - INFO - decorated - args: (<__main__.Client object at 0x024064F0>, 'console0', 'hi')  - send_message - __main__
+2018-04-16 00:19:30,699 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 00:19:30,700 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 00:19:30,700 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 00:19:30,793 - INFO - decorated - args: (<__main__.Client object at 0x02BF6490>,) result: {'action': 'presence', 'time': 'Mon Apr 16 00:19:30 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 00:19:31,029 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 00:19:31,030 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 00:19:31,030 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 00:19:31,083 - INFO - decorated - args: (<__main__.Client object at 0x02766470>,) result: {'action': 'presence', 'time': 'Mon Apr 16 00:19:31 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 00:19:53,074 - INFO - decorated - args: (<__main__.Client object at 0x02766470>, 'console1', 'hi')  - send_message - __main__
+2018-04-16 00:20:12,499 - INFO - decorated - args: (<__main__.Client object at 0x02766470>, 'console0', 'hi')  - send_message - __main__
+2018-04-16 00:34:52,145 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 00:34:52,145 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 00:34:52,146 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 00:34:52,306 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 00:34:52,307 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 00:34:52,307 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 00:34:52,693 - INFO - decorated - args: (<__main__.Client object at 0x03127430>,) result: {'action': 'presence', 'time': 'Mon Apr 16 00:34:52 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 00:34:52,856 - INFO - decorated - args: (<__main__.Client object at 0x02326470>,) result: {'action': 'presence', 'time': 'Mon Apr 16 00:34:52 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 00:35:29,037 - INFO - decorated - args: (<__main__.Client object at 0x03127430>, 'console1', 'hi')  - send_message - __main__
+2018-04-16 00:47:18,005 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 00:47:18,007 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 00:47:18,007 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 00:47:23,399 - INFO - decorated - args: (<__main__.Client object at 0x028E6470>,) result: {'action': 'presence', 'time': 'Mon Apr 16 00:47:23 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-16 01:15:36,129 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:15:36,130 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:15:36,130 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:15:36,194 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:15:36,194 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:15:36,195 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:15:36,249 - INFO - decorated - args: (<__main__.Client object at 0x030F7430>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:15:36 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 01:15:36,695 - INFO - decorated - args: (<__main__.Client object at 0x02AF7410>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:15:36 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 01:15:56,141 - INFO - decorated - args: (<__main__.Client object at 0x02AF7410>, 'console0', 'hi')  - send_message - __main__
+2018-04-16 01:21:05,641 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:21:05,641 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:21:05,642 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:21:05,854 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:21:05,855 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:21:05,855 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:21:05,901 - INFO - decorated - args: (<__main__.Client object at 0x03016430>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:21:05 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 01:21:06,203 - INFO - decorated - args: (<__main__.Client object at 0x024B7450>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:21:06 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 01:21:33,967 - INFO - decorated - args: (<__main__.Client object at 0x03016430>, 'console0', 'hi')  - send_message - __main__
+2018-04-16 01:22:54,116 - INFO - decorated - args: (<__main__.Client object at 0x024B7450>, 'console1', 'by')  - send_message - __main__
+2018-04-16 01:27:43,716 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:27:43,717 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:27:43,718 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:27:43,790 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:27:43,791 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:27:43,791 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:27:43,852 - INFO - decorated - args: (<__main__.Client object at 0x027A7430>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:27:43 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 01:27:44,319 - INFO - decorated - args: (<__main__.Client object at 0x02DD6470>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:27:44 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 01:28:06,105 - INFO - decorated - args: (<__main__.Client object at 0x02DD6470>, 'console0', 'hi')  - send_message - __main__
+2018-04-16 01:32:46,101 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:32:46,102 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:32:46,102 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:32:46,163 - INFO - decorated - args: (<__main__.Client object at 0x03147410>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:32:46 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 01:32:46,364 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:32:46,365 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:32:46,365 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:32:46,412 - INFO - decorated - args: (<__main__.Client object at 0x024D7430>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:32:46 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 01:33:06,705 - INFO - decorated - args: (<__main__.Client object at 0x024D7430>, 'console1', 'hi')  - send_message - __main__
+2018-04-16 01:37:53,134 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:37:53,135 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:37:53,135 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:37:53,469 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:37:53,470 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:37:53,470 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:37:53,516 - INFO - decorated - args: (<__main__.Client object at 0x02C96450>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:37:53 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 01:37:53,712 - INFO - decorated - args: (<__main__.Client object at 0x02866470>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:37:53 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 01:38:07,006 - INFO - decorated - args: (<__main__.Client object at 0x02866470>, 'console1', 'hi')  - send_message - __main__
+2018-04-16 01:46:48,343 - INFO - decorated - args: (<__main__.Client object at 0x02866470>, 'console1', 'by')  - send_message - __main__
+2018-04-16 01:52:17,668 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:52:17,679 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:52:17,680 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:52:17,735 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 01:52:17,735 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 01:52:17,736 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 01:52:18,342 - INFO - decorated - args: (<__main__.Client object at 0x024E7450>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:52:18 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 01:52:18,394 - INFO - decorated - args: (<__main__.Client object at 0x030B6430>,) result: {'action': 'presence', 'time': 'Mon Apr 16 01:52:18 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 01:52:33,431 - INFO - decorated - args: (<__main__.Client object at 0x024E7450>, 'console0', 'by')  - send_message - __main__
+2018-04-16 02:00:49,720 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 02:00:49,721 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 02:00:49,721 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 02:00:49,870 - INFO - <module> - Hello, I'm is INFO!
+2018-04-16 02:00:49,871 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-16 02:00:49,871 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-16 02:00:50,324 - INFO - decorated - args: (<__main__.Client object at 0x02CA7430>,) result: {'action': 'presence', 'time': 'Mon Apr 16 02:00:50 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-16 02:00:50,424 - INFO - decorated - args: (<__main__.Client object at 0x02E17430>,) result: {'action': 'presence', 'time': 'Mon Apr 16 02:00:50 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-16 02:01:13,458 - INFO - decorated - args: (<__main__.Client object at 0x02E17430>, 'console1', 'by')  - send_message - __main__
+2018-04-18 12:12:13,704 - INFO - <module> - Hello, I'm is INFO!
+2018-04-18 12:12:13,705 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-18 12:12:13,706 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-18 12:12:14,506 - INFO - <module> - Hello, I'm is INFO!
+2018-04-18 12:12:14,507 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-18 12:12:14,507 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-18 12:12:14,876 - INFO - decorated - args: (<__main__.Client object at 0x02D08450>,) result: {'action': 'presence', 'time': 'Wed Apr 18 12:12:14 2018', 'account_name': 'console1'}  - form_presence - __main__
+2018-04-18 12:12:14,894 - INFO - decorated - args: (<__main__.Client object at 0x02D08450>,) result: {'response': 'ok'}  - run - __main__
+2018-04-18 12:12:15,159 - INFO - decorated - args: (<__main__.Client object at 0x02548430>,) result: {'action': 'presence', 'time': 'Wed Apr 18 12:12:15 2018', 'account_name': 'console0'}  - form_presence - __main__
+2018-04-18 12:12:15,169 - INFO - decorated - args: (<__main__.Client object at 0x02548430>,) result: {'response': 'ok'}  - run - __main__
+2018-04-18 12:12:53,069 - INFO - decorated - args: (<__main__.Client object at 0x02548430>, 'console1', 'hi')  - send_message - __main__
+2018-04-18 12:13:27,819 - INFO - decorated - args: (<__main__.Client object at 0x02D08450>, 'console0', 'by')  - send_message - __main__
+2018-04-18 12:13:51,101 - INFO - decorated - args: (<__main__.Client object at 0x02548430>,) result: ['console1']  - get_contacts - __main__
+2018-04-18 12:14:01,159 - INFO - decorated - args: (<__main__.Client object at 0x02548430>, 'homer') result: {'response': 202}  - add_contact - __main__
+2018-04-18 12:14:08,616 - INFO - decorated - args: (<__main__.Client object at 0x02548430>,) result: ['console1']  - get_contacts - __main__
+2018-04-18 12:14:53,667 - INFO - decorated - args: (<__main__.Client object at 0x02548430>, 'console2') result: {'response': 202}  - add_contact - __main__
+2018-04-18 12:14:57,503 - INFO - decorated - args: (<__main__.Client object at 0x02548430>,) result: ['console1']  - get_contacts - __main__
+2018-04-18 12:17:16,670 - INFO - <module> - Hello, I'm is INFO!
+2018-04-18 12:17:16,671 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-18 12:17:16,672 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-18 12:17:21,217 - INFO - decorated - args: (<__main__.Client object at 0x02A86D10>,) result: {'action': 'presence', 'time': 'Wed Apr 18 12:17:21 2018', 'account_name': 'Lisa'}  - form_presence - __main__
+2018-04-18 12:17:21,236 - INFO - decorated - args: (<__main__.Client object at 0x02A86D10>,) result: {'response': 'ok'}  - run - __main__
+2018-04-18 12:17:35,816 - INFO - <module> - Hello, I'm is INFO!
+2018-04-18 12:17:35,817 - WARNING - <module> - It seems to be a bug...WARNING
+2018-04-18 12:17:35,817 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2018-04-18 12:17:40,138 - INFO - decorated - args: (<__main__.Client object at 0x02726D30>,) result: {'action': 'presence', 'time': 'Wed Apr 18 12:17:40 2018', 'account_name': 'Homer'}  - form_presence - __main__
+2018-04-18 12:17:40,150 - INFO - decorated - args: (<__main__.Client object at 0x02726D30>,) result: {'response': 'ok'}  - run - __main__
+2018-04-18 12:17:47,053 - INFO - decorated - args: (<__main__.Client object at 0x02726D30>,) result: ['Marge', 'Bart', 'Lisa']  - get_contacts - __main__
+2018-04-18 12:17:53,094 - INFO - decorated - args: (<__main__.Client object at 0x02A86D10>,) result: ['Bart']  - get_contacts - __main__
+2018-04-18 12:18:00,371 - INFO - decorated - args: (<__main__.Client object at 0x02A86D10>, 'Homer') result: {'response': 202}  - add_contact - __main__
+2018-04-18 12:18:06,220 - INFO - decorated - args: (<__main__.Client object at 0x02A86D10>,) result: ['Bart', 'Homer']  - get_contacts - __main__
+2018-04-18 12:18:17,032 - INFO - decorated - args: (<__main__.Client object at 0x02A86D10>, 'Homer', 'hi')  - send_message - __main__
+2018-04-18 12:18:42,931 - INFO - decorated - args: (<__main__.Client object at 0x02726D30>, 'Lisa', 'by')  - send_message - __main__
+2019-08-06 04:30:32,386 - INFO - <module> - Hello, I'm is INFO!
+2019-08-06 04:30:32,387 - WARNING - <module> - It seems to be a bug...WARNING
+2019-08-06 04:30:32,387 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2019-08-06 04:30:32,392 - INFO - <module> - Hello, I'm is INFO!
+2019-08-06 04:30:32,392 - WARNING - <module> - It seems to be a bug...WARNING
+2019-08-06 04:30:32,392 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2019-08-06 04:30:32,929 - INFO - decorated - args: (<__main__.Client object at 0x00000203397D0CF8>,) result: {'action': 'presence', 'time': 'Tue Aug  6 04:30:32 2019', 'account_name': 'console1'}  - form_presence - __main__
+2019-08-06 04:30:32,929 - INFO - decorated - args: (<__main__.Client object at 0x000002105F56A4A8>,) result: {'action': 'presence', 'time': 'Tue Aug  6 04:30:32 2019', 'account_name': 'console0'}  - form_presence - __main__
+2019-08-06 04:30:32,943 - INFO - decorated - args: (<__main__.Client object at 0x000002105F56A4A8>,) result: {'response': 'ok'}  - run - __main__
+2019-08-06 04:30:32,948 - INFO - decorated - args: (<__main__.Client object at 0x00000203397D0CF8>,) result: {'response': 'ok'}  - run - __main__
+2019-08-07 01:00:33,203 - INFO - <module> - Hello, I'm is INFO!
+2019-08-07 01:00:33,204 - WARNING - <module> - It seems to be a bug...WARNING
+2019-08-07 01:00:33,204 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2019-08-07 01:00:33,210 - INFO - <module> - Hello, I'm is INFO!
+2019-08-07 01:00:33,210 - WARNING - <module> - It seems to be a bug...WARNING
+2019-08-07 01:00:33,210 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2019-08-07 01:00:33,219 - INFO - decorated - args: (<__main__.Client object at 0x00000159E7229400>,) result: {'action': 'presence', 'time': 'Wed Aug  7 01:00:33 2019', 'account_name': 'console0'}  - form_presence - __main__
+2019-08-07 01:00:33,224 - INFO - decorated - args: (<__main__.Client object at 0x00000159E7229400>,) result: {'response': 'ok'}  - run - __main__
+2019-08-07 01:00:33,227 - INFO - decorated - args: (<__main__.Client object at 0x00000265463293C8>,) result: {'action': 'presence', 'time': 'Wed Aug  7 01:00:33 2019', 'account_name': 'console1'}  - form_presence - __main__
+2019-08-07 01:00:33,229 - INFO - decorated - args: (<__main__.Client object at 0x00000265463293C8>,) result: {'response': 'ok'}  - run - __main__
+2019-08-07 01:00:42,285 - INFO - decorated - args: (<__main__.Client object at 0x00000159E7229400>,) result: ['console1']  - get_contacts - __main__
+2019-08-07 01:00:55,881 - INFO - decorated - args: (<__main__.Client object at 0x00000159E7229400>, 'console1', 'hi')  - send_message - __main__
+2019-08-07 01:01:04,795 - INFO - decorated - args: (<__main__.Client object at 0x00000265463293C8>,) result: ['console0']  - get_contacts - __main__
+2019-08-07 01:01:26,133 - INFO - decorated - args: (<__main__.Client object at 0x00000265463293C8>, 'console0', 'by')  - send_message - __main__
+2019-08-08 14:14:34,750 - INFO - <module> - Hello, I'm is INFO!
+2019-08-08 14:14:34,762 - WARNING - <module> - It seems to be a bug...WARNING
+2019-08-08 14:14:34,762 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2019-08-08 14:14:34,823 - INFO - decorated - args: (<__main__.Client object at 0x0000013F56FD93C8>,) result: {'action': 'presence', 'time': 'Thu Aug  8 14:14:34 2019', 'account_name': 'console1'}  - form_presence - __main__
+2019-08-08 14:14:34,832 - INFO - decorated - args: (<__main__.Client object at 0x0000013F56FD93C8>,) result: {'response': 'ok'}  - run - __main__
+2019-08-08 14:14:34,840 - INFO - <module> - Hello, I'm is INFO!
+2019-08-08 14:14:34,840 - WARNING - <module> - It seems to be a bug...WARNING
+2019-08-08 14:14:34,840 - CRITICAL - <module> - CRITICAL bug in app! Hello, World!
+2019-08-08 14:14:34,855 - INFO - decorated - args: (<__main__.Client object at 0x000001DA5B5C93C8>,) result: {'action': 'presence', 'time': 'Thu Aug  8 14:14:34 2019', 'account_name': 'console0'}  - form_presence - __main__
+2019-08-08 14:14:34,859 - INFO - decorated - args: (<__main__.Client object at 0x000001DA5B5C93C8>,) result: {'response': 'ok'}  - run - __main__
